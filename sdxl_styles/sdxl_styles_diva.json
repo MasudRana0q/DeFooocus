@@ -16,8 +16,8 @@
     },
     {
         "name": "MASUD RANA M",
-        "prompt": "Action Figure, {prompt}, plastic collectable action figure, collectable toy action figure",
-        "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
+        "prompt": "Action Figure, {prompt}, blurry face, ugly figure, ugly, deformed, noisy, blurry, low contrast",
+        "negative_prompt": "pretty, cute, adorable, beautiful lighting, great composition"
     },
     {
         "name": "Adorable 3D Character",
