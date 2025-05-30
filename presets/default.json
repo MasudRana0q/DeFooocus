@@ -1,10 +1,10 @@
 {
-    "default_model": "pornworksNudePeoplePhoto_02.safetensors",
+    "default_model": "Hyper-SDXL-4steps-lora.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "pornworksNudePeoplePhoto_02.safetensors",
+            "Hyper-SDXL-4steps-lora.safetensors",
             0.1
         ],
         [
@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "FluentlyXL-v4.safetensors": "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
+        "FluentlyXL-v4.safetensors": "https://huggingface.co/ByteDance/Hyper-SD/resolve/main/Hyper-SDXL-4steps-lora.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
