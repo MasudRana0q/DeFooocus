@@ -1,5 +1,5 @@
 {
-    "default_model": "FluentlyXL-v4.safetensors",
+    "default_model": "pornworksNudePeoplePhoto_02.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -8,7 +8,7 @@
             1.0
         ],
         [
-            "Hyper-SDXL-4steps-lora.safetensors",
+            "pornworksNudePeoplePhoto_02.safetensors",
             1.0
         ],
         [
@@ -39,11 +39,11 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 4,
     "checkpoint_downloads": {
-        "FluentlyXL-v4.safetensors": "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
+        "pornworksNudePeoplePhoto_02.safetensors": "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "Hyper-SDXL-4steps-lora.safetensors": "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
+        "pornworksNudePeoplePhoto_02.safetensors": "https://huggingface.co/AI-Porn/pornworks-nude-people-photo-realistic-nsfw-flux-1d-checkpoint/resolve/main/pornworksNudePeoplePhoto_02.safetensors"
     },
     "previous_default_models": []
 }
